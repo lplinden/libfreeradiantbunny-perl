@@ -1,5 +1,7 @@
 # libfreeradiantbunny-perl
+
 Scripts and modules written in Perl to manage a freeradiantbunny database.
+
 Copyright (C) 2022 Lars Paul Linden
 
 This program is free software; you can redistribute it and/or modify
